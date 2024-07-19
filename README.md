@@ -1,3 +1,5 @@
+Hi I'm Ahmed !
+📔 Currently pursuing a Software Engineering degree @ISIMG
 
 🚀 Skills
   - Programming: Java, Python, JavaScript, C/C++
