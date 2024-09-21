@@ -8,4 +8,4 @@ Hi I'm Ahmed !
   - Tools: git
   - Frontend: React
   - Databases:  MySQL, PL/SQL
-  - DevOps: Docker 
+  - DevOps: Docker, Kubernetes
