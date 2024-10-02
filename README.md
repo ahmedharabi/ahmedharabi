@@ -10,7 +10,7 @@ Backend Development: Node.js, Express.js
 
 Frontend: React.js
 
-Databases: MySQL, PL/SQL
+Databases: MySQL, PL/SQL, MongoDB
 
 DevOps: Docker, Kubernetes, Git
 
