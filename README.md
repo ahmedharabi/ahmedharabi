@@ -14,4 +14,4 @@ Databases: MySQL, PL/SQL, MongoDB
 
 DevOps: Docker, Kubernetes, Git
 
-If it’s complex, I’ll break it down. If it’s simple, I’ll scale it up.
+📌 If it’s complex, I’ll break it down. If it’s simple, I’ll scale it up.
