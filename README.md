@@ -14,4 +14,4 @@ Databases: MySQL, PL/SQL, MongoDB
 
 DevOps: Docker, Kubernetes, Git
 
-🔧 Passionate about building scalable solutions and constantly exploring new technologies in DevOps and cloud computing! 🚀
+If it’s complex, I’ll break it down. If it’s simple, I’ll scale it up.
