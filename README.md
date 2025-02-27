@@ -1,17 +1,39 @@
-Hi, I'm Ahmed! 👋
+# Hi, I'm Ahmed
 
-🎓 Software Engineering Student @ ISIMG
+**Software Engineering Student @ ISIMG**
 
-💻 Technical Skills:
+---
 
-Languages: Java, Python, JavaScript, C/C++
+## Technical Skills
 
-Backend Development: Node.js, Express.js
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- C/C++
 
-Frontend: React.js
+### Backend Development
+- Node.js
+- Express.js
 
-Databases: MySQL, PL/SQL, MongoDB
+### Frontend Development
+- React.js
 
-DevOps: Docker, Kubernetes, Git
+### Databases
+- MySQL
+- PL/SQL
+- MongoDB
 
-📌 If it’s complex, I’ll break it down. If it’s simple, I’ll scale it up.
+### DevOps
+- Docker
+- Kubernetes
+- Git
+
+---
+
+## Philosophy
+> If it’s complex, I’ll break it down. If it’s simple, I’ll scale it up.
+
+---
+
+Feel free to reach out if you'd like to collaborate or discuss ideas!
