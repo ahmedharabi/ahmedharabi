@@ -1,3 +1,5 @@
+![Profile views counter](https://komarev.com/ghpvc/?username=ahmedharabi&&style=flat-square)
+  <br/>  
 ### I enjoy Building stuff 
 ### 💻 Tech Stack: 
 
