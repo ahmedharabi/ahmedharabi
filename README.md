@@ -6,7 +6,8 @@
 <!-- Intro -->
 <h2 align="center">Hi, I'm Ahmed 👋</h2>
 <p align="center">
-  I enjoy building <b>end-to-end software solutions</b>, especially SaaS products that combine solid engineering with real business impact.
+  I enjoy building <b>end-to-end software solutions </b>that combine solid engineering with real business impact.
+
 </p>
 
 
