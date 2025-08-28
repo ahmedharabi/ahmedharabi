@@ -5,6 +5,7 @@
 
 <!-- Intro -->
 <h2 align="center">Hi, I'm Ahmed 👋</h2>
+
 <p align="center">
   I enjoy building <b>end-to-end software solutions </b>that combine solid engineering with real business impact.
 
@@ -22,6 +23,11 @@
   </a>
   <a href="https://leetcode.com/ahmedharabi" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,githubactions,aws,azure,gcp,terraform,grafana,prometheus,linux,nestjs,ts,golang" />
   </a>
 </p>
 
