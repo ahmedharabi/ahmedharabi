@@ -15,7 +15,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://ahmedharabi.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ahmedharabi" target="_blank">
